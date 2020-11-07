@@ -1,0 +1,13 @@
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\bin\Debug\netcoreapp3.1\2LinaerEquations.exe
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\bin\Debug\netcoreapp3.1\2LinaerEquations.deps.json
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\bin\Debug\netcoreapp3.1\2LinaerEquations.runtimeconfig.json
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\bin\Debug\netcoreapp3.1\2LinaerEquations.runtimeconfig.dev.json
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\bin\Debug\netcoreapp3.1\2LinaerEquations.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\bin\Debug\netcoreapp3.1\2LinaerEquations.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\obj\Debug\netcoreapp3.1\2LinaerEquations.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\obj\Debug\netcoreapp3.1\2LinaerEquations.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\obj\Debug\netcoreapp3.1\2LinaerEquations.AssemblyInfo.cs
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\obj\Debug\netcoreapp3.1\2LinaerEquations.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\obj\Debug\netcoreapp3.1\2LinaerEquations.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\obj\Debug\netcoreapp3.1\2LinaerEquations.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\2LinaerEquations\2LinaerEquations\obj\Debug\netcoreapp3.1\2LinaerEquations.genruntimeconfig.cache

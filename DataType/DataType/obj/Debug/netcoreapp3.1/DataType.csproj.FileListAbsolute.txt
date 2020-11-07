@@ -1,0 +1,13 @@
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.exe
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.deps.json
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.json
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.runtimeconfig.dev.json
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\bin\Debug\netcoreapp3.1\DataType.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.AssemblyInfo.cs
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\DataType\DataType\obj\Debug\netcoreapp3.1\DataType.genruntimeconfig.cache

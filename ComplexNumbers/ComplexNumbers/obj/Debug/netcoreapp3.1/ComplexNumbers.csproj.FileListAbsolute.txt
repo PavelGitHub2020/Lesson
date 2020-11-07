@@ -1,0 +1,13 @@
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.exe
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.deps.json
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.json
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.runtimeconfig.dev.json
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\bin\Debug\netcoreapp3.1\ComplexNumbers.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.AssemblyInfo.cs
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\ComplexNumbers\ComplexNumbers\obj\Debug\netcoreapp3.1\ComplexNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fractions.exe
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fractions.deps.json
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fractions.runtimeconfig.json
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fractions.runtimeconfig.dev.json
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fractions.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\bin\Debug\netcoreapp3.1\Fractions.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fractions.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fractions.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fractions.AssemblyInfo.cs
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fractions.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fractions.dll
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fractions.pdb
+B:\учебный проект\для примеров\Домашка и уч.проект\Fraction\Fraction\obj\Debug\netcoreapp3.1\Fractions.genruntimeconfig.cache
